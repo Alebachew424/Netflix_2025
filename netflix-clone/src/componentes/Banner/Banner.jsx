@@ -47,7 +47,7 @@
 
 import React, { useEffect, useState } from "react";
 import axios from "../../utils/axios";
-import requestes from "../../utils/requestes";
+import requestes from "../../utils/requests";
 import "./Banner.css";
 
 const Banner = () => {
